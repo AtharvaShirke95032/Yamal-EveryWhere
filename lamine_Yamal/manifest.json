@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Lamine Yamal Everywhere",
+  "version": "1.0",
+  "description": "Replaces all images and headings with Lamine Yamal content.",
+  "icons": {
+    "128": "icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "permissions": ["activeTab"]
+}
