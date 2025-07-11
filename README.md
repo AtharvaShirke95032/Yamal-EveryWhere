@@ -24,9 +24,7 @@ Now you can experience the joy of seeing him **everywhere** — YouTube thumbnai
 
 ---
 
-## 📸 Demo
 
-![Demo Screenshot](https://media.giphy.com/media/3o7TKsQ43pHgkVOh6U/giphy.gif)
 
 > This isn't Yamal. This is just the energy of this extension.
 
